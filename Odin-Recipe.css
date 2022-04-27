@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-size: 25px;
+}
+p {
+    color: #FFCC00;
+}
+
+ul {
+    color: aquamarine;
+}
+
+ol {
+    color: chartreuse;
+}
